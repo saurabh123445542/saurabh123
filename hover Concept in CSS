@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning CSS</title>
+</head>
+<body>
+    <form>
+        <label class="imp-label" for="Name">Name</label>
+    <input type="text" required placeholder="Full Name"><br><br>
+    Mail-id <input type="text" required placeholder="EMail">
+    <button class="button" for="Submit">Submit</button>
+    
+    </form>
+    <style>
+        /* universal selector */
+        *{
+            background-color: black;
+            color: white;
+        }
+    </style>
+<style>
+    
+    
+
+
+    /* before */
+.imp-label:hover::before{
+    content:'';
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+background-color: red;
+}
+.button:hover{
+    background-color:silver;
+    color: white;
+    padding: 10px 10px;
+    border: 3px black solid;
+    border-radius: 4px;
+    
+}
+.button-warning:hover{
+    background-color: aliceblue;
+}
+a:hover{
+    color: red;
+    font-size: x-large;
+
+}
+a:visited{
+    color:red;
+}
+
+input:focus:hover{
+    background-color: red;
+}
+::placeholder{
+    color: silver;
+}
+li:nth-child(even){
+    background-color: blueviolet;
+    border:2px dotted black;
+}
+li:first-child:hover{
+    background-color: brown;
+}
+li:last-child:hover{
+    background-color: brown;
+}
+    
+</style>
+<a href="https://hashnode.com/">Hashnode</a>
+<ul>
+<li>one</li>
+ <li>two</li>   
+    <li>three</li>
+    <li>four</li>
+    <li>five</li>
+    <li>six</li>
+    <li>seven</li>
+    <li>Eight</li>
+    <li>Nine</li>
+    <li>Ten</li>
+</ul>
+<div class="container"><p>
+Namaste Sir
+
+</p></div>
+<style>
+.container{
+    
+    margin: 50px;
+    border: 2px solid white;
+
+}
+p{
+    padding: 20px;
+    color:aqua
+}
+.container:hover{
+background-color: burlywood;
+
+
+}
+p:hover{
+    background-color: burlywood;
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
