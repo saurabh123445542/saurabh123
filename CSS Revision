@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Again CSS Revision</title>
+</head>
+<body>
+    
+         <div class="container">ONE</div>
+    <div class="container">TWO</div>
+    <div class="container" id="three">THREE</div>
+    <div class="container">FOUR</div>      
+
+
+
+    <style>
+        #three{
+            position:fixed;
+            top: 100px;
+            
+
+        }
+.container{
+    background-color: black;
+    color:white;
+    display:inline-block;
+    border: 4px solid black;
+    border-radius: 50px;
+    height: 120px;
+    width:120px;
+    text-align:center;
+
+
+
+}
+
+
+    </style>
+</body>
+</html>
