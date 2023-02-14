@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project1</title>
+</head>
+<body>
+    <img src="C:\Users\saura\OneDrive\Desktop\Logo.png" class="image1">
+    
+    <div>
+        <h1>Home About Services Portfolio Pricing</h1>
+    </div>
+    
+
+    
+    <button class="Button" for="Contact Us">Contact Us</button>
+    
+    <div>
+        <p><b>We Help You<br>
+            Crush Your<br>
+             Competition</b></p>
+             
+
+       </div>
+       <div>
+
+<ul>Build trust to connect your brand to billions of</ul>
+ <ul>users and grow your revenue through SEO.</ul>
+
+</div>
+<img src="C:\Users\saura\OneDrive\Desktop\Header Illustration.png" class="image2">
+<button class="Button2" for="See our services">See our services</button>
+
+<style>
+    
+    
+    h1{
+        font-size: 15px;
+margin-left: 180px;
+color: silver;
+word-spacing: 20px;
+
+
+    }
+
+    .image1{
+        height: 60px;
+width: 70px;
+margin-left: 180px;
+height: 37px;
+        width: 105px;
+        margin-top: 25px;
+
+    }
+    .Button2{
+        background-color: #333399;
+        color:rgb(239, 236, 236);
+        border: 1px solid black;
+        border-radius: 11px;
+        height: 55px;
+        width: 170px;
+    
+        margin-left: 220px;
+        margin-top: 15px;
+        font-size: smaller;
+    }
+</style>
+<style>
+
+    ul{
+font-size: 15px;
+margin-left: 160px;
+
+    }
+</style>
+
+
+
+       </div>
+          
+<style>
+
+    p{
+        font-size: 55px;
+        margin-left: 180px;
+        
+        
+        
+    
+    }
+    .Button{
+        background-color: #333399;
+        color:rgb(239, 236, 236);
+        border: 1px solid black;
+        border-radius: 9px;
+        height: 41px;
+        width: 111px;
+        text-align:center;
+        margin-left: 1100px;
+        margin-top: 10px;
+        font-size: smaller;
+        
+    }
+    .image2{
+height: 600px;
+width: 700px;
+margin-left: 700px;
+
+
+
+    }
+
+</style>
+</body>
+</html>
