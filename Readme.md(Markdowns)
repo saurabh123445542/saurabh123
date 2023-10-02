@@ -1,0 +1,44 @@
+Normal text
+# MARKDOWNS(md)
+## My Name Is Saurabh-h1
+### My Name Is Saurabh-h2
+_Batch_-for italic
+
+**what is your problem**-for bold
+
+~~999~~ Rs. 500
+
+Link
+
+[Know More](https://sci-hub.hkvisa.net/10.1139/T08-005)
+
+[Know More](https://sci-hub.hkvisa.net/10.1139/T08-005 "Research Paper Of Project")
+
+![Alter Text](https://img.sci-hub.shop/scihub/ravenround.gif)
+
+Tables
+
+|Monday|Tuesday|wednesday|
+|---|---|---|
+|Maths|Science|Bio|
+|Physics|Chemistry|Maths|
+|ASM|DPCS|Advanced RCC|
+|EMSE|Economics|Soil Mechanics|
+
+My Name Is **`Saurabh`**
+
+```javascript
+let a=100;
+```
+
+> Learn to have patience, things will come!
+
+Bullet Points:
+- Saurabh
+- Ankita
+- Anuj
+
+![](https://img.shields.io/badge/dynamic/json
+)
+
+![Alter Text](https://ineuron.ai/images/ineuron-logo.png)
